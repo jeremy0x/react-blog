@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "This is my first blog. I hope you like it. I will be writing more blogs soon. Stay tuned! :)",
+      "author": "Sonic",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "We are happy to announce that we are opening our doors to the public on the 1st of January 2023! We will be having a party to celebrate the opening of our new restaurant. We hope to see you there!",
+      "author": "Tails",
+      "id": 2
+    },
+    {
+      "title": "New Year's Eve Party!",
+      "body": "This new year's eve we are having a party! Come and join us! We will be having a DJ and a live band. We will also be having a buffet and a bar. We hope to see you there!",
+      "author": "Knuckles",
+      "id": 3
+    },
+    {
+      "title": "5 Simple Ways to Reduce Stress and Improve Your Mental Health",
+      "body": "In this blog post, you can share practical tips and advice on how to reduce stress and improve your mental health.",
+      "author": "tails",
+      "id": 12
+    },
+    {
+      "title": "The Benefits of a Plant-Based Diet: How Eating More Fruits and Vegetables Can Improve Your Health",
+      "body": "In this blog post, you can discuss the health benefits of a plant-based diet and explain how eating more fruits and vegetables can improve your overall well-being.",
+      "author": "knuckles",
+      "id": 13
+    }
+  ]
+}

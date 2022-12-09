@@ -4,7 +4,6 @@ import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Create from './components/Create';
-import Contact from './components/Contact';
 import BlogDetails from './components/BlogDetails';
 import NotFound from './components/404';
 
@@ -17,10 +16,6 @@ function App() {
         <Switch>
           <Route exact path="/">
             <Body />
-          </Route>
-
-          <Route exact path="/contact">
-            <Contact />
           </Route>
 
           <Route exact path="/create">

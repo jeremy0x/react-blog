@@ -16,6 +16,11 @@ JSON Server was created using [this](https://www.npmjs.com/package/json-server) 
 - View the details of a specific blog post
 - Delete existing blog posts
 
+## Screenshot
+
+![Screenshot of the React Blog website](https://user-images.githubusercontent.com/87664239/206725697-95f1324e-b07e-4086-9df2-3ef0f7a50469.png)
+
+
 ## Running Locally
 
 To get started with this project, follow these steps:
